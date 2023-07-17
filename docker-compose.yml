@@ -1,0 +1,60 @@
+version: "3"
+services:
+
+  backend:
+    container_name: lda_backend
+    image: lda_backend_img
+    build: ./backend
+    volumes:
+      - ./backend:/app-backend
+    restart: always
+
+  frontend:
+    container_name: lda_frontend
+    image: lda_frontend_img
+    build: ./frontend
+    volumes:
+      - ./frontend:/app-frontend
+    ports:
+      - 3408:3408
+    depends_on:
+      - backend
+    restart: always
+
+  nginx_backend_server:
+    container_name: lda_nginx_backend_server
+    image: lda_nginx_backend_server_img
+    build: ./nginx_backend_server
+    ports:
+        - 8408:8408
+    depends_on:
+        - backend
+    restart: always
+
+  db:
+    image: mariadb:10.6.4-focal
+    container_name: db
+    command: 
+      - '--default-authentication-plugin=mysql_native_password'
+    ports:
+      - 3306:3306
+      - 33060:33060
+    restart: always
+    environment:
+      - MYSQL_ROOT_PASSWORD=$MYSQL_ROOT_PASSWORD
+      - MYSQL_DATABASE=$MYSQL_DATABASE
+      - MYSQL_USER=$MYSQL_USER
+      - MYSQL_PASSWORD=$MYSQL_PASSWORD
+
+  wordpress:
+    container_name: wp
+    image: wordpress:php8.1-apache
+    ports:
+      - 8080:80
+    restart: always
+    environment:
+      - WORDPRESS_DB_HOST=db
+      - WORDPRESS_DB_USER=$MYSQL_USER
+      - WORDPRESS_DB_PASSWORD=$MYSQL_PASSWORD
+      - WORDPRESS_DB_NAME=$MYSQL_DATABASE
+
