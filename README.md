@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hello, I'm Leandro Damasio - Italian-Brazilian, born on Carnival Tuesday in 1986, Full Stack Developer with proficiency in Python and Javascript, with extensive experience in Linux, Django, Node and React.
+- 👋 Hello, I'm Leandro Damasio - Italian-Brazilian, born on Carnival Tuesday in 1986, Full Stack Developer with proficiency in Python and Javascript, with extensive experience in technologies such as Linux, Django, Node and React.
   
 - 👀 I currently work as a Senior Developer Analyst at the Stefanini Group. I am allocated to Fapesp - São Paulo State Research Support Foundation.
 
