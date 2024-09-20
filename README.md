@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 👋 Hello, I'm Leandro Damásio - Italian-Brazilian developer born on Carnival Tuesday 1986, working as a Full Stack Developer proficient in Python and modern Javascript. With a dose of Platform Engineering and DevSecOps Culture, I use some GitOps techniques to provide an updated software service. I work with extensive experience in technologies such as Linux, Docker, Kubernetes, Argo CD, Github Acionts, Django, Node and React.
+- 👋 Hello, I'm Leandro Damasio - Italian-Brazilian developer born on Carnival Tuesday 1986, working as a Full Stack Developer proficient in Python and modern Javascript. With a dose of Platform Engineering and DevSecOps Culture, I use some GitOps techniques to provide an updated software service. I work with extensive experience in technologies such as Linux, Docker, Kubernetes, Argo CD, Github Acionts, Django, Node and React.
   
 - 👀 Estou atualmente utilizando Argo CD para para gerenciar algumas novas criações, tais como o site do Vitória Restaurante e a plataforma Metamorfose, além é claro do Robson Bot.
 
