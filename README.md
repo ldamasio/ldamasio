@@ -1,41 +1,33 @@
 # LEANDRO DAMASIO
 
-AI Engineer • Full-Stack Software & Platform Engineer • Technical Lead  
-São Paulo, Brazil • Open to remote/global opportunities
+AI Engineer • Platform & Backend Systems • Technical Leadership  
+Production AI • Cloud-Native • Governance & Reliability
+
+---
 
 ## ABOUT
 
-I am an **AI Engineer at Enforce (BTG Pactual Group)**, designing and building AI-first platforms that deliver real-world outcomes across financial and legal domains. My work focuses on blending rigorous engineering discipline with modern AI systems — from agentic workflows and evaluation pipelines to scalable backend and cloud-native infrastructure. :contentReference[oaicite:3]{index=3}
+I am an **AI Engineer at Enforce (BTG Pactual Group)**, working on the design and operation of **production-grade intelligent systems** in highly regulated, data-intensive environments.
 
-Previously, I served as **Principal Software Engineer at Arte Arena**, where I led the development of complex distributed systems and AI-powered platforms. Prior to that, I built foundational experience across multiple enterprise environments as:
+My work focuses on **AI engineering as a systems discipline**: combining backend engineering, cloud-native platforms, and applied AI to deliver reliable, observable, and governable solutions. I design architectures that move safely from experimentation to production, with explicit attention to validation, risk reduction, and long-term maintainability.
 
-- **Senior Software Engineer — Stefanini / FAPESP**  
-- **Software Engineer — Global Hitss**  
-- **Software Engineer — NPL Brasil** :contentReference[oaicite:4]{index=4}
+Previously, I served as **Principal Software Engineer at Arte Arena**, leading the development of complex software platforms and AI-driven systems. Earlier in my career, I built strong foundations as a **Software Engineer** in enterprise and institutional contexts, including **Stefanini (allocated at FAPESP)**, **Global Hitss**, and **NPL Brasil**.
 
-I am also the **Founder and CEO of RBX Robótica**, an engineering-first company pushing the boundary of automation and intelligent software systems — including the open-source **Robson Bot** repository.
+In parallel, I am the **Founder and CEO of RBX Robótica**, an AI-first company focused on automation, intelligent systems, and applied AI products, including open-source initiatives.
 
-## EXPERTISE & FOCUS
+I hold **Italian (EU) citizenship**, ensuring legal professional eligibility within the European Union.
 
-- **AI Engineering:** agentic systems, LLM workflows, lifecycle governance, evaluation & observability  
-- **Backend & APIs:** Python, Django, FastAPI, PostgreSQL, event-driven architectures  
-- **Cloud & Platforms:** Kubernetes, Docker, Linux, CI/CD, GitOps, observability  
-- **Full-Stack Development:** React, Next.js (TypeScript)  
-- **Leadership:** technical strategy, system design, mentoring, cross-disciplinary collaboration
+---
 
-## SELECT OPEN SOURCE
+## PROFESSIONAL FOCUS
 
-### **Robson Bot**
-A robust open-source project focused on AI-first automation and intelligent decision workflows — blending orchestration, risk governance, observability, and modular design.
+- **AI Engineering:** agentic workflows, LLM-based systems, evaluation pipelines, lifecycle governance  
+- **Backend & Platforms:** Python, Django, FastAPI, PostgreSQL, event-driven architectures  
+- **Cloud-Native Systems:** Linux, Docker, Kubernetes, CI/CD, GitOps, observability  
+- **Frontend Interfaces:** React, Next.js (TypeScript)  
+- **Technical Leadership:** architecture decisions, system reliability, mentoring engineers  
 
-This repo serves both as a **production-capable system** and a **reference implementation** for modern AI engineering practices.
-
-## TECH STACK (HIGHLIGHTS)
-
-Python • Django • FastAPI • PostgreSQL  
-React • Next.js • TypeScript  
-Kubernetes • Docker • CI/CD • Observability  
-Applied AI/ML • Distributed Systems • Data Pipelines
+---
 
 ## CONTACT
 
